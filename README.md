@@ -37,6 +37,7 @@ The dataset underwent a thorough cleaning process, including:
 • Grouping and aggregation using groupby(), agg()
 
 **Key Insights**
+
 • Warranty of laptops
 
 • Laptop ditribution on votes
