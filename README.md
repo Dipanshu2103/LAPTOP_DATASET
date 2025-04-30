@@ -1,6 +1,6 @@
-I have done an Exploratory Data Analysis (EDA) on an Laptop dataset to uncover key insights, understand patterns in specs, and prepare the data for potential further analysis or visualization. The goal of this analysis is to explore the Laptop dataset, clean and preprocess the data, and extract meaningful insights about product_name, pricing, utility, and laptop votes.
+**I have done an Exploratory Data Analysis (EDA) on an Laptop dataset to uncover key insights, understand patterns in specs, and prepare the data for potential further analysis or visualization. The goal of this analysis is to explore the Laptop dataset, clean and preprocess the data, and extract meaningful insights about product_name, pricing, utility, and laptop votes.**
 
-Data Cleaning
+**Data Cleaning**
 
 The dataset underwent a thorough cleaning process, including:
 
@@ -14,7 +14,7 @@ The dataset underwent a thorough cleaning process, including:
 
 • Filtering outliers 
 
-Tools & Libraries Used
+**Tools & Libraries Used**
 
 • Python
 
@@ -22,7 +22,7 @@ Tools & Libraries Used
 
 • NumPy
 
-Keywords Used for EDA
+**Keywords Used for EDA**
 
 • info(), describe(), shape, isnull(), sum()
 
@@ -36,7 +36,7 @@ Keywords Used for EDA
 
 • Grouping and aggregation using groupby(), agg()
 
-Key Insights
+**Key Insights**
 • Warranty of laptops
 
 • Laptop ditribution on votes
