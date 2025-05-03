@@ -22,6 +22,8 @@ The dataset underwent a thorough cleaning process, including:
 
 • NumPy
 
+• Power BI
+
 **Keywords Used for EDA**
 
 • info(), describe(), shape, isnull(), sum()
@@ -35,6 +37,16 @@ The dataset underwent a thorough cleaning process, including:
 • Sorting and filtering with sort_values(), loc[], iloc[]
 
 • Grouping and aggregation using groupby(), agg()
+
+**Charts Used**
+
+• Bar chart
+
+•Tables
+
+• KPI (Key Performance Indicator) (eg. Avg Sale Price, Avg Rating Pct, etc)
+
+•Donut Chart
 
 **Key Insights**
 
